@@ -1,0 +1,12 @@
+init
+cr x 2
+cr y 2
+req R3 1
+to
+req R1 1
+to
+req R3 2
+rel R3 3
+to
+rel R1 1
+to
