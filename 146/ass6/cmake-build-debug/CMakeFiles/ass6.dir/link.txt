@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/ass6.dir/nsh.c.o CMakeFiles/ass6.dir/parse.c.o  -o ass6 
